@@ -1,2 +1,2 @@
-# paper-box
+# 🗃️ Paper Box
 Integrated thesis management tool

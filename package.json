@@ -1,0 +1,22 @@
+{
+  "name": "paper-box",
+  "version": "1.0.0",
+  "description": "Integrated thesis management tool",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkSB/paper-box.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ParkSB/paper-box/issues"
+  },
+  "homepage": "https://github.com/ParkSB/paper-box#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

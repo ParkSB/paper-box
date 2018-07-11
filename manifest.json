@@ -1,0 +1,16 @@
+{
+  "author": "Park Seong-beom",
+  "name": "Paper Box",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Intergrated thesis management tool",
+  "homepage_url": "https://github.com/ParkSB/paper-box",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["https://*/*", "http://*/*", "tabs"]
+}
